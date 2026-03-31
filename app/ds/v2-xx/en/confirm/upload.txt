@@ -1,0 +1,5 @@
+When you upload youy selected Flipnote to Jeraldmemo, You agree to:
+• let your upload be viewed publicly to others on Jeraldmemo
+• Stars and comments will be added by users and creators
+• Exploits not from Flipnote Studio can and will be accepted to the server,
+• Do not send corrupted Flipnotes to the database to our servers!
